@@ -51,9 +51,7 @@ standalone_admin_password.txt
 
 # Dados temporários ou sensíveis
 data/temp/
-data/*.xlsx
 *.tmp
-/data
 
 # Backup files
 *.bak
